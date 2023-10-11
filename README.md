@@ -1,2 +1,2 @@
 # WitherHack
-WitherHack is a a hacked client that will include all of the best features from all of the other hacked clients you love combined into one singular client!
+WitherHack is a hacked client mainly aimed towards 2b2t, however it can be used for whatever. Our client will include all of the best features from all of the other hacked clients you love and combine it into one singular client! WitherHack will also include a built-in 2b2t shop GUI where you can order kits and items from your favorite shops. Shop owners will be notified when an order is placed through the client, and if you are a shop owner, you can apply to have your shop added as well! WitherHack will be an open source project and will be improved as it is being developed.
